@@ -1,6 +1,7 @@
 asgiref==3.8.1
 defusedxml==0.7.1
 Django==5.0.6
+django-admin-honeypot1==1.2.0
 django-cors-headers==4.4.0
 django-filter==24.2
 django-redis==5.4.0
